@@ -1,0 +1,31 @@
+body {
+background-color: #fff;
+text-align: center;
+padding-top: 200px;
+margin: auto;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding-bottom: 300;
+	display: inline-block;
+	overflow: hidden;
+}
+ li {
+ 	 float: right;
+ }
+ li a{
+ 	display: block;
+ 	color: white;
+ 	text-align: center;
+ 	padding:10px 10px;
+ 	text-decoration: none;
+ }
+
+ input {
+ 	border-radius: 30px;
+ 	width: 400px;
+ 	height: 40px;
+
+ }
